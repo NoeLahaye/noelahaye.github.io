@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "Webpage under construction"
+title: "Welcome on my page"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+_This webpage is still under construction_
 
 I am a researcher in Physical Oceanography, working at Inria (Rennes, France). 
 
