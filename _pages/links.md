@@ -10,15 +10,24 @@ author_profile: true
 * Fluminance Team [web page](http://www.irisa.fr/fluminance/indexFluminance.html)
 
 ## Collaborators
-This is a far-from-complete list of people I am regularly in contact with, working on one project or another
+This is a non-exhaustive list of people I am (or have been) collaborating with (besides researcher from my team)
 
+### At [LOPS](https://www.umr-lops.fr/en) (Brest)
 * [Jonathan Gula](https://www.jgula.fr)
-* Etienne Mémin
 * Aurélien Ponte
-* Guillaume Roullet
-* [Stefan Llewellyn Smith](https://sites.google.com/a/eng.ucsd.edu/sgls/)
+* [Guillaume Roullet](https://github.com/pvthinker/)
 * Clément Vic
-* Vladimir Zeitlin
+
+### At Grenoble (e.g. [Meom team](https://meom-group.github.io/) @IGE)
+* Emmanuel Cosme
+* Florian Le Guillou
+* [Julien Le Sommer](http://lesommer.github.io/)
+
+### Elsewhere
+* Pascale Bouruet-Aubertot (@LOCEAN, Paris)
+* Yannis Cuypers (@LOCEAN, Paris)
+* [Stefan Llewellyn Smith](https://sites.google.com/a/eng.ucsd.edu/sgls/) (@UCSD & SIO, San Diego)
+* Vladimir Zeitlin (@LMD, Paris)
 
 ## Projects
 * [SWOT](https://swot.jpl.nasa.gov/) (Surface Water and cean Topography)
