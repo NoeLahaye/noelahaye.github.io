@@ -3,3 +3,5 @@ Gemfile.lock
 *~
 .DS_STORE
 
+markdown_generator/.ipynb_checkpoints/
+
