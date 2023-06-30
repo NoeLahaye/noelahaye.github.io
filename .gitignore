@@ -1,7 +1,12 @@
-_site/
-Gemfile.lock
-*~
 .DS_STORE
+Gemfile.lock
 
+*~
+.bundle/
+.ruby-version
+Gemfile
+vendor/
+
+_site/
 markdown_generator/.ipynb_checkpoints/
 
