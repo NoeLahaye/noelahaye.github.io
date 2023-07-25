@@ -7,7 +7,7 @@ author_profile: true
 
 ## Institutional links
 * Inria: [www.inria.fr](https://www.inria.fr/en)
-* Fluminance Team [web page](http://www.irisa.fr/fluminance/indexFluminance.html)
+* Odyssey Team [web page](https://team.inria.fr/odyssey/)
 
 ## Collaborators
 This is a non-exhaustive list of people I am (or have been) collaborating with (besides researcher from my team)

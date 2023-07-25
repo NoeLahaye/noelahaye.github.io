@@ -9,4 +9,6 @@ vendor/
 
 _site/
 markdown_generator/.ipynb_checkpoints/
+.sass-cache
 
+unused/

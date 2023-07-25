@@ -10,7 +10,7 @@ main:
     url: /contact/    
    
   - title: "Open Positions"
-    url: /open_positions/
+    url: /positions/
    
   - title: "Links"
     url: /links/
