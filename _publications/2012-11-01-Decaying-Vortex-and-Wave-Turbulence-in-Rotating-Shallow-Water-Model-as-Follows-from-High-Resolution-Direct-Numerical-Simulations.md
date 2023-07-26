@@ -1,10 +1,9 @@
 ---
-title: "Decaying vortex and wave turbulence in rotating shallow water model, as follows from high-resolution direct numerical simulations"
+title: "Decaying Vortex and Wave Turbulence in Rotating Shallow Water Model, as Follows from High-Resolution Direct Numerical Simulations"
 collection: publications
-permalink: /publication/2012-11-01-Decaying-vortex-and-wave-turbulence-in-rotating-shallow-water-model-as-follows-from-high-resolution-direct-numerical-simulations
+permalink: /publication/2012-11-01-Decaying-Vortex-and-Wave-Turbulence-in-Rotating-Shallow-Water-Model-as-Follows-from-High-Resolution-Direct-Numerical-Simulations
 date: 2012-11-01
-venue: 'Physics of Fluids'
-paperurl: 'http://aip.scitation.org/doi/10.1063/1.4767723'
-citation: ' Noé Lahaye,  Vladimir Zeitlin, &quot;Decaying vortex and wave turbulence in rotating shallow water model, as follows from high-resolution direct numerical simulations.&quot; Physics of Fluids, 2012.'
+venue: 'Phys. Fluids'
+citation: ' Noé Lahaye,  Vladimir Zeitlin, &quot;Decaying Vortex and Wave Turbulence in Rotating Shallow Water Model, as Follows from High-Resolution Direct Numerical Simulations.&quot; Phys. Fluids, 2012.'
 ---
-[Access paper here](http://aip.scitation.org/doi/10.1063/1.4767723){:target="_blank"}
+Use [Google Scholar](https://scholar.google.com/scholar?q=Decaying+Vortex+and+Wave+Turbulence+in+Rotating+Shallow+Water+Model,+as+Follows+from+High+Resolution+Direct+Numerical+Simulations){:target="_blank"} for full citation

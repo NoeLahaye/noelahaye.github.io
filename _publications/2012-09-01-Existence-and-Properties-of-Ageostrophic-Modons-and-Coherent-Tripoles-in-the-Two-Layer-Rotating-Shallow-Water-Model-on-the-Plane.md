@@ -1,10 +1,9 @@
 ---
-title: "Existence and properties of ageostrophic modons and coherent tripoles in the two-layer rotating shallow water model on the -plane"
+title: "Existence and Properties of Ageostrophic Modons and Coherent Tripoles in the Two-Layer Rotating Shallow Water Model on the -Plane"
 collection: publications
-permalink: /publication/2012-09-01-Existence-and-properties-of-ageostrophic-modons-and-coherent-tripoles-in-the-two-layer-rotating-shallow-water-model-on-the-plane
+permalink: /publication/2012-09-01-Existence-and-Properties-of-Ageostrophic-Modons-and-Coherent-Tripoles-in-the-Two-Layer-Rotating-Shallow-Water-Model-on-the-Plane
 date: 2012-09-01
-venue: 'Journal of Fluid Mechanics'
-paperurl: 'http://www.journals.cambridge.org/abstract_S0022112012002224'
-citation: ' Noé Lahaye,  Vladimir Zeitlin, &quot;Existence and properties of ageostrophic modons and coherent tripoles in the two-layer rotating shallow water model on the -plane.&quot; Journal of Fluid Mechanics, 2012.'
+venue: 'J. Fluid Mech.'
+citation: ' Noé Lahaye,  Vladimir Zeitlin, &quot;Existence and Properties of Ageostrophic Modons and Coherent Tripoles in the Two-Layer Rotating Shallow Water Model on the -Plane.&quot; J. Fluid Mech., 2012.'
 ---
-[Access paper here](http://www.journals.cambridge.org/abstract_S0022112012002224){:target="_blank"}
+Use [Google Scholar](https://scholar.google.com/scholar?q=Existence+and+Properties+of+Ageostrophic+Modons+and+Coherent+Tripoles+in+the+Two+Layer+Rotating+Shallow+Water+Model+on+the++Plane){:target="_blank"} for full citation

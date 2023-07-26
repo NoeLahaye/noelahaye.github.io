@@ -1,13 +1,9 @@
 ---
-title: "Endogenous versus exogenous factors: What matters for vent mussel communities?"
+title: "Endogenous versus Exogenous Factors: What Matters for Vent Mussel Communities?"
 collection: publications
-permalink: /publication/2020-06-01-Endogenous-versus-exogenous-factors-What-matters-for-vent-mussel-communities
-excerpt: 'tex.ids: SarrazinEtAl'
+permalink: /publication/2020-06-01-Endogenous-versus-Exogenous-Factors-What-Matters-for-Vent-Mussel-Communities
 date: 2020-06-01
 venue: 'Deep Sea Research Part I: Oceanographic Research Papers'
-paperurl: 'http://www.sciencedirect.com/science/article/pii/S0967063720300480'
-citation: ' J. Sarrazin,  M. Portail,  E. Legrand,  C. Cathalot,  A. Laes,  N. Lahaye,  P. Sarradin,  B. Husson, &quot;Endogenous versus exogenous factors: What matters for vent mussel communities?.&quot; Deep Sea Research Part I: Oceanographic Research Papers, 2020.'
+citation: ' J. Sarrazin,  M. Portail,  E. Legrand,  C. Cathalot,  A. Laes,  N. Lahaye,  P. Sarradin,  B. Husson, &quot;Endogenous versus Exogenous Factors: What Matters for Vent Mussel Communities?.&quot; Deep Sea Research Part I: Oceanographic Research Papers, 2020.'
 ---
-tex.ids: SarrazinEtAl
-
-[Access paper here](http://www.sciencedirect.com/science/article/pii/S0967063720300480){:target="_blank"}
+Use [Google Scholar](https://scholar.google.com/scholar?q=Endogenous+versus+Exogenous+Factors:+What+Matters+for+Vent+Mussel+Communities?){:target="_blank"} for full citation

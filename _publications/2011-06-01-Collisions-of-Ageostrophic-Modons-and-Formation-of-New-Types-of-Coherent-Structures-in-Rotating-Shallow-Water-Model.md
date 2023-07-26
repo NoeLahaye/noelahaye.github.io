@@ -1,10 +1,9 @@
 ---
-title: "Collisions of ageostrophic modons and formation of new types of coherent structures in rotating shallow water model"
+title: "Collisions of Ageostrophic Modons and Formation of New Types of Coherent Structures in Rotating Shallow Water Model"
 collection: publications
-permalink: /publication/2011-06-01-Collisions-of-ageostrophic-modons-and-formation-of-new-types-of-coherent-structures-in-rotating-shallow-water-model
+permalink: /publication/2011-06-01-Collisions-of-Ageostrophic-Modons-and-Formation-of-New-Types-of-Coherent-Structures-in-Rotating-Shallow-Water-Model
 date: 2011-06-01
-venue: 'Physics of Fluids'
-paperurl: 'http://aip.scitation.org/doi/10.1063/1.3597608'
-citation: ' Noé Lahaye,  Vladimir Zeitlin, &quot;Collisions of ageostrophic modons and formation of new types of coherent structures in rotating shallow water model.&quot; Physics of Fluids, 2011.'
+venue: 'Phys. Fluids'
+citation: ' Noé Lahaye,  Vladimir Zeitlin, &quot;Collisions of Ageostrophic Modons and Formation of New Types of Coherent Structures in Rotating Shallow Water Model.&quot; Phys. Fluids, 2011.'
 ---
-[Access paper here](http://aip.scitation.org/doi/10.1063/1.3597608){:target="_blank"}
+Use [Google Scholar](https://scholar.google.com/scholar?q=Collisions+of+Ageostrophic+Modons+and+Formation+of+New+Types+of+Coherent+Structures+in+Rotating+Shallow+Water+Model){:target="_blank"} for full citation

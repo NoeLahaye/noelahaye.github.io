@@ -3,8 +3,7 @@ title: "Geostrophy Assessment and Momentum Balance of the Global Oceans in a Tid
 collection: publications
 permalink: /publication/2021-01-01-Geostrophy-Assessment-and-Momentum-Balance-of-the-Global-Oceans-in-a-Tide-and-Eddy-Resolving-Model
 date: 2021-01-01
-venue: 'Journal of Geophysical Research: Oceans'
-paperurl: 'http://onlinelibrary.wiley.com/doi/abs/10.1029/2021JC017422'
-citation: ' Xiaolong Yu,  Aurélien Ponte,  Noé Lahaye,  Zoé Caspar-Cohen,  Dimitris Menemenlis, &quot;Geostrophy Assessment and Momentum Balance of the Global Oceans in a Tide- and Eddy-Resolving Model.&quot; Journal of Geophysical Research: Oceans, 2021.'
+venue: 'J. Geophys. Res. Oceans'
+citation: ' Xiaolong Yu,  Aurélien Ponte,  Noé Lahaye,  Zoé {Caspar-Cohen},  Dimitris Menemenlis, &quot;Geostrophy Assessment and Momentum Balance of the Global Oceans in a Tide- and Eddy-Resolving Model.&quot; J. Geophys. Res. Oceans, 2021.'
 ---
-[Access paper here](http://onlinelibrary.wiley.com/doi/abs/10.1029/2021JC017422){:target="_blank"}
+Use [Google Scholar](https://scholar.google.com/scholar?q=Geostrophy+Assessment+and+Momentum+Balance+of+the+Global+Oceans+in+a+Tide++and+Eddy+Resolving+Model){:target="_blank"} for full citation

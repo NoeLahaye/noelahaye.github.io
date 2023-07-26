@@ -3,8 +3,7 @@ title: "Modal Analysis of Internal Wave Propagation and Scattering over Large-Am
 collection: publications
 permalink: /publication/2019-11-01-Modal-Analysis-of-Internal-Wave-Propagation-and-Scattering-over-Large-Amplitude-Topography
 date: 2019-11-01
-venue: 'Journal of Physical Oceanography'
-paperurl: 'https://journals.ametsoc.org/doi/full/10.1175/JPO-D-19-0005.1'
-citation: ' Noé Lahaye,  Stefan Llewellyn, &quot;Modal Analysis of Internal Wave Propagation and Scattering over Large-Amplitude Topography.&quot; Journal of Physical Oceanography, 2019.'
+venue: 'J. Phys. Oceanogr.'
+citation: ' Noé Lahaye,  Stefan Llewellyn, &quot;Modal Analysis of Internal Wave Propagation and Scattering over Large-Amplitude Topography.&quot; J. Phys. Oceanogr., 2019.'
 ---
-[Access paper here](https://journals.ametsoc.org/doi/full/10.1175/JPO-D-19-0005.1){:target="_blank"}
+Use [Google Scholar](https://scholar.google.com/scholar?q=Modal+Analysis+of+Internal+Wave+Propagation+and+Scattering+over+Large+Amplitude+Topography){:target="_blank"} for full citation
